@@ -1,0 +1,4 @@
+Viva La Vida,Coldplay,Coldplay,/home/music/song101,Viva La Vida,2008,5,1
+Can't Smile Without you,Chris Arnold,Barry Manilow,/home/music/song102,Even Now,1978,0,0
+Something Stupid,Carson Parks,Frank Sinatra,/home/music/song103,The World we Knew,1967,4,1
+Billie Jean,Michael Jackson,Michael Jackson,/home/music/song104,Thriller,1983,4,2

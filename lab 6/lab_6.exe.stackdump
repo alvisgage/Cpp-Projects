@@ -1,0 +1,10 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=0040137D
+eax=0000000A ebx=20020528 ecx=00000000 edx=20020538 esi=61276EEC edi=6119DD9F
+ebp=0028CC48 esp=0028CC20 program=C:\Users\Rage Gage\Documents\NetBeansProjects\lab 6\dist\Debug\Cygwin-Windows\lab_6.exe, pid 4692, thread main
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
+0028CC48  0040137D  (00000017, 200102C0, 0000000A, 004013DC)
+0028CC98  004015D1  (00000001, 0028CCC0, 20010100, 6127707B)
+0028CD28  61006F58  (00000000, 0028CD78, 61006550, 00000000)
+End of stack trace

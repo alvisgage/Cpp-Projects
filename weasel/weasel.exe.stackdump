@@ -1,0 +1,10 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=004432AC
+eax=00000000 ebx=00000000 ecx=2003068C edx=004493C4 esi=0044824C edi=6119DD9F
+ebp=0028CB48 esp=0028CAD0 program=C:\Users\Rage Gage\Documents\NetBeansProjects\weasel\dist\Debug\Cygwin-Windows\weasel.exe, pid 6744, thread main
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
+0028CB48  004432AC  (004493C0, 2003068C, 00000014, 00401539)
+0028CC98  00401C07  (00000001, 0028CCC0, 20010100, 612770BC)
+0028CD28  61006F58  (00000000, 0028CD78, 61006550, 00000000)
+End of stack trace
